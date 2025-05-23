@@ -4,6 +4,15 @@ A Python-based scraper for extracting Broadway show events from Ticketmaster. Th
 
 ---
 
+### OVERVIEW:
+- Technologies
+- Features
+- Additional Features slack and email notification, data saved to MongoDB
+- Folder structure
+- Setup the project
+- Running the project
+- To view the MongoDB saved datas in terminal
+
 ## Technologies:
     - BeautifulSoup + request
     - Selenium e.t.c
