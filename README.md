@@ -29,7 +29,7 @@ A Python-based scraper for extracting Broadway show events from Ticketmaster. Th
 
 ## Folder structure:
 ```
-broadway_shows
+assessement_scraping
 ├──.venv/           # installed modules folder
 ├── config.py       # Configuration loader using environment variables
 ├── cli_viewer.py        # CLI script to view events from MongoDB
