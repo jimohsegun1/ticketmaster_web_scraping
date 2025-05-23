@@ -1,5 +1,5 @@
-# Broadway Ticketmaster Scraper from:
- https://www.ticketmaster.com/broadway
+# Broadway Ticketmaster Scraper:
+ - website: https://www.ticketmaster.com/broadway
 
 A Python-based scraper for extracting Broadway show events from Ticketmaster. This project uses Selenium with undetected-chromedriver to navigate the dynamic site in real time, scrapes all the shows date one after the other and shows, event data, deduplicates it using hashes, and stores it in MongoDB and also include scraping logs. It supports email and Slack notifications for scraping status and results.
 
