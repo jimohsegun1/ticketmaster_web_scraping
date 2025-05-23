@@ -41,7 +41,7 @@ assessement_scraping
 ├── .env        # Environment variables (not committed)
 └── README.md       # Project documentation
 ```
-# Check the data folder for the csv and json files
+# Check the data folder for the csv and json files named with dates and time 
 ---
 
 ## Setup the project:
