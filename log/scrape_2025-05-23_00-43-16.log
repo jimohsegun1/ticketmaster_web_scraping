@@ -1,0 +1,357 @@
+2025-05-23 00:43:16,934 [INFO] Running one-time scrape...
+2025-05-23 00:43:16,935 [INFO] \U0001f7e2 Scraping started.
+2025-05-23 00:43:20,772 [INFO] patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-23 00:43:24,982 [INFO] Navigating to Ticketmaster Broadway page...
+2025-05-23 00:43:35,966 [INFO] Found 29 show cards. Extracting show links...
+2025-05-23 00:43:35,978 [INFO] Processing show 1/29: Disney’s Aladdin
+2025-05-23 00:43:59,365 [INFO] Found 22 events for Disney’s Aladdin
+2025-05-23 00:44:02,614 [INFO] Found 42 events for Disney’s Aladdin
+2025-05-23 00:44:06,887 [INFO] Found 62 events for Disney’s Aladdin
+2025-05-23 00:44:10,670 [INFO] Found 82 events for Disney’s Aladdin
+2025-05-23 00:44:14,820 [INFO] Found 102 events for Disney’s Aladdin
+2025-05-23 00:44:18,302 [INFO] Found 122 events for Disney’s Aladdin
+2025-05-23 00:44:21,955 [INFO] Found 142 events for Disney’s Aladdin
+2025-05-23 00:44:25,737 [INFO] Found 162 events for Disney’s Aladdin
+2025-05-23 00:44:29,842 [INFO] Found 182 events for Disney’s Aladdin
+2025-05-23 00:44:34,012 [INFO] Found 202 events for Disney’s Aladdin
+2025-05-23 00:44:39,024 [INFO] Found 222 events for Disney’s Aladdin
+2025-05-23 00:44:43,259 [INFO] Found 242 events for Disney’s Aladdin
+2025-05-23 00:44:47,787 [INFO] Found 262 events for Disney’s Aladdin
+2025-05-23 00:44:52,959 [INFO] Found 264 events for Disney’s Aladdin
+2025-05-23 00:45:08,739 [INFO] Processing show 2/29: The Book of Mormon
+2025-05-23 00:45:20,615 [INFO] Found 22 events for The Book of Mormon
+2025-05-23 00:45:24,309 [INFO] Found 42 events for The Book of Mormon
+2025-05-23 00:45:28,170 [INFO] Found 62 events for The Book of Mormon
+2025-05-23 00:45:31,972 [INFO] Found 82 events for The Book of Mormon
+2025-05-23 00:45:36,370 [INFO] Found 102 events for The Book of Mormon
+2025-05-23 00:45:40,045 [INFO] Found 122 events for The Book of Mormon
+2025-05-23 00:45:43,828 [INFO] Found 142 events for The Book of Mormon
+2025-05-23 00:45:47,993 [INFO] Found 162 events for The Book of Mormon
+2025-05-23 00:45:51,613 [INFO] Found 182 events for The Book of Mormon
+2025-05-23 00:45:56,391 [INFO] Found 202 events for The Book of Mormon
+2025-05-23 00:46:00,694 [INFO] Found 222 events for The Book of Mormon
+2025-05-23 00:46:05,377 [INFO] Found 242 events for The Book of Mormon
+2025-05-23 00:46:10,262 [INFO] Found 262 events for The Book of Mormon
+2025-05-23 00:46:14,238 [INFO] Found 263 events for The Book of Mormon
+2025-05-23 00:46:24,465 [INFO] Processing show 3/29: Boop! The Musical
+2025-05-23 00:46:38,034 [INFO] Found 22 events for Boop! The Musical
+2025-05-23 00:46:42,216 [INFO] Found 42 events for Boop! The Musical
+2025-05-23 00:46:45,673 [INFO] Found 62 events for Boop! The Musical
+2025-05-23 00:46:49,414 [INFO] Found 82 events for Boop! The Musical
+2025-05-23 00:46:53,174 [INFO] Found 102 events for Boop! The Musical
+2025-05-23 00:46:57,093 [INFO] Found 122 events for Boop! The Musical
+2025-05-23 00:47:00,657 [INFO] Found 142 events for Boop! The Musical
+2025-05-23 00:47:04,775 [INFO] Found 152 events for Boop! The Musical
+2025-05-23 00:47:15,369 [INFO] Processing show 4/29: Buena Vista Social Club
+2025-05-23 00:47:24,126 [INFO] Found 22 events for Buena Vista Social Club
+2025-05-23 00:47:27,130 [INFO] Found 42 events for Buena Vista Social Club
+2025-05-23 00:47:30,526 [INFO] Found 62 events for Buena Vista Social Club
+2025-05-23 00:47:34,419 [INFO] Found 82 events for Buena Vista Social Club
+2025-05-23 00:47:38,224 [INFO] Found 102 events for Buena Vista Social Club
+2025-05-23 00:47:42,520 [INFO] Found 122 events for Buena Vista Social Club
+2025-05-23 00:47:46,498 [INFO] Found 142 events for Buena Vista Social Club
+2025-05-23 00:47:50,834 [INFO] Found 162 events for Buena Vista Social Club
+2025-05-23 00:47:55,360 [INFO] Found 182 events for Buena Vista Social Club
+2025-05-23 00:47:59,367 [INFO] Found 202 events for Buena Vista Social Club
+2025-05-23 00:48:04,331 [INFO] Found 222 events for Buena Vista Social Club
+2025-05-23 00:48:08,249 [INFO] Found 242 events for Buena Vista Social Club
+2025-05-23 00:48:12,467 [INFO] Found 262 events for Buena Vista Social Club
+2025-05-23 00:48:16,944 [INFO] Found 263 events for Buena Vista Social Club
+2025-05-23 00:48:27,336 [INFO] Processing show 5/29: Cabaret at the Kit Kat Club
+2025-05-23 00:48:40,667 [INFO] Found 22 events for Cabaret at the Kit Kat Club
+2025-05-23 00:48:43,944 [INFO] Found 42 events for Cabaret at the Kit Kat Club
+2025-05-23 00:48:46,915 [INFO] Found 62 events for Cabaret at the Kit Kat Club
+2025-05-23 00:48:50,949 [INFO] Found 82 events for Cabaret at the Kit Kat Club
+2025-05-23 00:48:54,636 [INFO] Found 102 events for Cabaret at the Kit Kat Club
+2025-05-23 00:48:58,627 [INFO] Found 122 events for Cabaret at the Kit Kat Club
+2025-05-23 00:49:02,622 [INFO] Found 142 events for Cabaret at the Kit Kat Club
+2025-05-23 00:49:06,805 [INFO] Found 162 events for Cabaret at the Kit Kat Club
+2025-05-23 00:49:11,029 [INFO] Found 182 events for Cabaret at the Kit Kat Club
+2025-05-23 00:49:14,873 [INFO] Found 202 events for Cabaret at the Kit Kat Club
+2025-05-23 00:49:19,078 [INFO] Found 222 events for Cabaret at the Kit Kat Club
+2025-05-23 00:49:23,423 [INFO] Found 242 events for Cabaret at the Kit Kat Club
+2025-05-23 00:49:27,397 [INFO] Found 262 events for Cabaret at the Kit Kat Club
+2025-05-23 00:49:37,628 [INFO] Processing show 6/29: Chicago The Musical
+2025-05-23 00:49:50,090 [INFO] Found 22 events for Chicago The Musical
+2025-05-23 00:49:53,829 [INFO] Found 42 events for Chicago The Musical
+2025-05-23 00:49:57,527 [INFO] Found 62 events for Chicago The Musical
+2025-05-23 00:50:00,738 [INFO] Found 82 events for Chicago The Musical
+2025-05-23 00:50:04,603 [INFO] Found 102 events for Chicago The Musical
+2025-05-23 00:50:08,473 [INFO] Found 122 events for Chicago The Musical
+2025-05-23 00:50:12,523 [INFO] Found 142 events for Chicago The Musical
+2025-05-23 00:50:17,845 [INFO] Found 162 events for Chicago The Musical
+2025-05-23 00:50:23,413 [INFO] Found 182 events for Chicago The Musical
+2025-05-23 00:50:30,056 [INFO] Found 202 events for Chicago The Musical
+2025-05-23 00:50:36,733 [INFO] Found 222 events for Chicago The Musical
+2025-05-23 00:50:42,103 [INFO] Found 242 events for Chicago The Musical
+2025-05-23 00:50:48,618 [INFO] Found 248 events for Chicago The Musical
+2025-05-23 00:50:59,085 [INFO] Processing show 7/29: Dead Outlaw
+2025-05-23 00:51:14,292 [INFO] Found 22 events for Dead Outlaw
+2025-05-23 00:51:18,347 [INFO] Found 42 events for Dead Outlaw
+2025-05-23 00:51:22,634 [INFO] Found 62 events for Dead Outlaw
+2025-05-23 00:51:28,958 [INFO] Found 82 events for Dead Outlaw
+2025-05-23 00:51:33,644 [INFO] Found 102 events for Dead Outlaw
+2025-05-23 00:51:38,430 [INFO] Found 122 events for Dead Outlaw
+2025-05-23 00:51:43,459 [INFO] Found 142 events for Dead Outlaw
+2025-05-23 00:51:48,143 [INFO] Found 162 events for Dead Outlaw
+2025-05-23 00:51:53,032 [INFO] Found 168 events for Dead Outlaw
+2025-05-23 00:52:03,662 [INFO] Processing show 8/29: Death Becomes Her
+2025-05-23 00:52:14,203 [INFO] Found 22 events for Death Becomes Her
+2025-05-23 00:52:17,977 [INFO] Found 42 events for Death Becomes Her
+2025-05-23 00:52:21,632 [INFO] Found 62 events for Death Becomes Her
+2025-05-23 00:52:24,907 [INFO] Found 82 events for Death Becomes Her
+2025-05-23 00:52:28,501 [INFO] Found 102 events for Death Becomes Her
+2025-05-23 00:52:32,612 [INFO] Found 122 events for Death Becomes Her
+2025-05-23 00:52:36,846 [INFO] Found 142 events for Death Becomes Her
+2025-05-23 00:52:41,411 [INFO] Found 162 events for Death Becomes Her
+2025-05-23 00:52:51,359 [INFO] Found 182 events for Death Becomes Her
+2025-05-23 00:52:55,879 [INFO] Found 202 events for Death Becomes Her
+2025-05-23 00:53:00,604 [INFO] Found 222 events for Death Becomes Her
+2025-05-23 00:53:04,875 [INFO] Found 242 events for Death Becomes Her
+2025-05-23 00:53:09,768 [INFO] Found 262 events for Death Becomes Her
+2025-05-23 00:53:14,673 [INFO] Found 282 events for Death Becomes Her
+2025-05-23 00:53:18,977 [INFO] Found 302 events for Death Becomes Her
+2025-05-23 00:53:24,580 [INFO] Found 322 events for Death Becomes Her
+2025-05-23 00:53:29,664 [INFO] Found 342 events for Death Becomes Her
+2025-05-23 00:53:35,397 [INFO] Found 362 events for Death Becomes Her
+2025-05-23 00:53:42,096 [INFO] Found 367 events for Death Becomes Her
+2025-05-23 00:53:52,387 [INFO] Processing show 9/29: Floyd Collins
+2025-05-23 00:54:02,948 [INFO] Found 22 events for Floyd Collins
+2025-05-23 00:54:06,257 [INFO] Found 39 events for Floyd Collins
+2025-05-23 00:54:16,661 [INFO] Processing show 10/29: The Great Gatsby
+2025-05-23 00:54:26,701 [INFO] Found 22 events for The Great Gatsby
+2025-05-23 00:54:30,323 [INFO] Found 42 events for The Great Gatsby
+2025-05-23 00:54:33,782 [INFO] Found 62 events for The Great Gatsby
+2025-05-23 00:54:37,372 [INFO] Found 82 events for The Great Gatsby
+2025-05-23 00:54:41,478 [INFO] Found 102 events for The Great Gatsby
+2025-05-23 00:54:45,623 [INFO] Found 122 events for The Great Gatsby
+2025-05-23 00:54:49,792 [INFO] Found 142 events for The Great Gatsby
+2025-05-23 00:54:54,523 [INFO] Found 162 events for The Great Gatsby
+2025-05-23 00:54:58,970 [INFO] Found 182 events for The Great Gatsby
+2025-05-23 00:55:03,587 [INFO] Found 202 events for The Great Gatsby
+2025-05-23 00:55:07,814 [INFO] Found 222 events for The Great Gatsby
+2025-05-23 00:55:11,904 [INFO] Found 242 events for The Great Gatsby
+2025-05-23 00:55:16,818 [INFO] Found 262 events for The Great Gatsby
+2025-05-23 00:55:21,624 [INFO] Found 264 events for The Great Gatsby
+2025-05-23 00:55:32,258 [INFO] Processing show 11/29: Gypsy
+2025-05-23 00:55:46,290 [INFO] Found 22 events for Gypsy
+2025-05-23 00:55:49,651 [INFO] Found 42 events for Gypsy
+2025-05-23 00:55:53,224 [INFO] Found 62 events for Gypsy
+2025-05-23 00:55:56,292 [INFO] Found 82 events for Gypsy
+2025-05-23 00:55:59,497 [INFO] Found 102 events for Gypsy
+2025-05-23 00:56:03,031 [INFO] Found 122 events for Gypsy
+2025-05-23 00:56:07,659 [INFO] Found 142 events for Gypsy
+2025-05-23 00:56:11,595 [INFO] Found 159 events for Gypsy
+2025-05-23 00:56:21,953 [INFO] Processing show 12/29: Hamilton
+2025-05-23 00:56:32,138 [INFO] Found 22 events for Hamilton
+2025-05-23 00:56:35,972 [INFO] Found 42 events for Hamilton
+2025-05-23 00:56:39,476 [INFO] Found 62 events for Hamilton
+2025-05-23 00:56:43,113 [INFO] Found 82 events for Hamilton
+2025-05-23 00:56:46,999 [INFO] Found 102 events for Hamilton
+2025-05-23 00:56:50,751 [INFO] Found 122 events for Hamilton
+2025-05-23 00:56:54,854 [INFO] Found 142 events for Hamilton
+2025-05-23 00:56:59,531 [INFO] Found 162 events for Hamilton
+2025-05-23 00:57:04,650 [INFO] Found 182 events for Hamilton
+2025-05-23 00:57:08,709 [INFO] Found 202 events for Hamilton
+2025-05-23 00:57:13,168 [INFO] Found 209 events for Hamilton
+2025-05-23 00:57:23,469 [INFO] Processing show 13/29: Hell’s Kitchen
+2025-05-23 00:57:33,845 [INFO] Found 22 events for Hell’s Kitchen
+2025-05-23 00:57:37,347 [INFO] Found 42 events for Hell’s Kitchen
+2025-05-23 00:57:40,681 [INFO] Found 62 events for Hell’s Kitchen
+2025-05-23 00:57:44,627 [INFO] Found 82 events for Hell’s Kitchen
+2025-05-23 00:57:48,800 [INFO] Found 102 events for Hell’s Kitchen
+2025-05-23 00:57:52,984 [INFO] Found 122 events for Hell’s Kitchen
+2025-05-23 00:57:56,961 [INFO] Found 142 events for Hell’s Kitchen
+2025-05-23 00:58:01,959 [INFO] Found 162 events for Hell’s Kitchen
+2025-05-23 00:58:06,519 [INFO] Found 182 events for Hell’s Kitchen
+2025-05-23 00:58:10,795 [INFO] Found 202 events for Hell’s Kitchen
+2025-05-23 00:58:15,252 [INFO] Found 222 events for Hell’s Kitchen
+2025-05-23 00:58:19,479 [INFO] Found 242 events for Hell’s Kitchen
+2025-05-23 00:58:25,416 [INFO] Found 262 events for Hell’s Kitchen
+2025-05-23 00:58:31,151 [INFO] Found 280 events for Hell’s Kitchen
+2025-05-23 00:58:41,342 [INFO] Processing show 14/29: John Proctor is the Villain
+2025-05-23 00:58:54,661 [INFO] Found 22 events for John Proctor is the Villain
+2025-05-23 00:58:58,308 [INFO] Found 42 events for John Proctor is the Villain
+2025-05-23 00:59:01,454 [INFO] Found 55 events for John Proctor is the Villain
+2025-05-23 00:59:11,521 [INFO] Processing show 15/29: Just In Time
+2025-05-23 00:59:22,790 [INFO] Found 22 events for Just In Time
+2025-05-23 00:59:26,187 [INFO] Found 42 events for Just In Time
+2025-05-23 00:59:29,585 [INFO] Found 62 events for Just In Time
+2025-05-23 00:59:33,108 [INFO] Found 82 events for Just In Time
+2025-05-23 00:59:36,384 [INFO] Found 102 events for Just In Time
+2025-05-23 00:59:40,531 [INFO] Found 122 events for Just In Time
+2025-05-23 00:59:44,459 [INFO] Found 142 events for Just In Time
+2025-05-23 00:59:48,145 [INFO] Found 162 events for Just In Time
+2025-05-23 00:59:52,520 [INFO] Found 182 events for Just In Time
+2025-05-23 00:59:56,681 [INFO] Found 202 events for Just In Time
+2025-05-23 01:00:01,341 [INFO] Found 222 events for Just In Time
+2025-05-23 01:00:05,435 [INFO] Found 223 events for Just In Time
+2025-05-23 01:00:15,946 [INFO] Processing show 16/29: The Last Five Years
+2025-05-23 01:00:29,298 [INFO] Found 22 events for The Last Five Years
+2025-05-23 01:00:32,792 [INFO] Found 42 events for The Last Five Years
+2025-05-23 01:00:36,025 [INFO] Found 47 events for The Last Five Years
+2025-05-23 01:00:46,453 [INFO] Processing show 17/29: Disney Presents The Lion King
+2025-05-23 01:00:59,579 [INFO] Found 22 events for Disney Presents The Lion King
+2025-05-23 01:01:02,620 [INFO] Found 42 events for Disney Presents The Lion King
+2025-05-23 01:01:06,171 [INFO] Found 62 events for Disney Presents The Lion King
+2025-05-23 01:01:09,953 [INFO] Found 82 events for Disney Presents The Lion King
+2025-05-23 01:01:13,393 [INFO] Found 102 events for Disney Presents The Lion King
+2025-05-23 01:01:16,859 [INFO] Found 122 events for Disney Presents The Lion King
+2025-05-23 01:01:21,176 [INFO] Found 142 events for Disney Presents The Lion King
+2025-05-23 01:01:25,728 [INFO] Found 162 events for Disney Presents The Lion King
+2025-05-23 01:01:29,356 [INFO] Found 182 events for Disney Presents The Lion King
+2025-05-23 01:01:33,738 [INFO] Found 202 events for Disney Presents The Lion King
+2025-05-23 01:01:37,835 [INFO] Found 222 events for Disney Presents The Lion King
+2025-05-23 01:01:42,054 [INFO] Found 242 events for Disney Presents The Lion King
+2025-05-23 01:01:46,349 [INFO] Found 262 events for Disney Presents The Lion King
+2025-05-23 01:01:56,548 [INFO] Processing show 18/29: Mamma Mia!
+2025-05-23 01:02:08,178 [INFO] Found 22 events for Mamma Mia!
+2025-05-23 01:02:11,758 [INFO] Found 42 events for Mamma Mia!
+2025-05-23 01:02:14,702 [INFO] Found 62 events for Mamma Mia!
+2025-05-23 01:02:18,107 [INFO] Found 82 events for Mamma Mia!
+2025-05-23 01:02:22,229 [INFO] Found 102 events for Mamma Mia!
+2025-05-23 01:02:25,780 [INFO] Found 122 events for Mamma Mia!
+2025-05-23 01:02:29,833 [INFO] Found 142 events for Mamma Mia!
+2025-05-23 01:02:33,589 [INFO] Found 162 events for Mamma Mia!
+2025-05-23 01:02:38,115 [INFO] Found 182 events for Mamma Mia!
+2025-05-23 01:02:42,524 [INFO] Found 202 events for Mamma Mia!
+2025-05-23 01:02:47,174 [INFO] Found 210 events for Mamma Mia!
+2025-05-23 01:02:57,343 [INFO] Processing show 19/29: Maybe Happy Ending
+2025-05-23 01:03:09,130 [INFO] Found 22 events for Maybe Happy Ending
+2025-05-23 01:03:12,645 [INFO] Found 42 events for Maybe Happy Ending
+2025-05-23 01:03:16,196 [INFO] Found 62 events for Maybe Happy Ending
+2025-05-23 01:03:19,772 [INFO] Found 82 events for Maybe Happy Ending
+2025-05-23 01:03:23,830 [INFO] Found 102 events for Maybe Happy Ending
+2025-05-23 01:03:27,632 [INFO] Found 122 events for Maybe Happy Ending
+2025-05-23 01:03:32,004 [INFO] Found 142 events for Maybe Happy Ending
+2025-05-23 01:03:37,082 [INFO] Found 162 events for Maybe Happy Ending
+2025-05-23 01:03:42,041 [INFO] Found 182 events for Maybe Happy Ending
+2025-05-23 01:03:47,128 [INFO] Found 202 events for Maybe Happy Ending
+2025-05-23 01:03:51,382 [INFO] Found 222 events for Maybe Happy Ending
+2025-05-23 01:03:55,621 [INFO] Found 242 events for Maybe Happy Ending
+2025-05-23 01:03:59,896 [INFO] Found 262 events for Maybe Happy Ending
+2025-05-23 01:04:04,936 [INFO] Found 278 events for Maybe Happy Ending
+2025-05-23 01:04:15,238 [INFO] Processing show 20/29: Moulin Rouge
+2025-05-23 01:04:27,077 [INFO] Found 22 events for Moulin Rouge
+2025-05-23 01:04:30,776 [INFO] Found 42 events for Moulin Rouge
+2025-05-23 01:04:34,386 [INFO] Found 62 events for Moulin Rouge
+2025-05-23 01:04:37,996 [INFO] Found 82 events for Moulin Rouge
+2025-05-23 01:04:42,269 [INFO] Found 102 events for Moulin Rouge
+2025-05-23 01:04:45,965 [INFO] Found 122 events for Moulin Rouge
+2025-05-23 01:04:49,987 [INFO] Found 142 events for Moulin Rouge
+2025-05-23 01:04:53,951 [INFO] Found 162 events for Moulin Rouge
+2025-05-23 01:04:58,214 [INFO] Found 182 events for Moulin Rouge
+2025-05-23 01:05:03,747 [INFO] Found 202 events for Moulin Rouge
+2025-05-23 01:05:08,040 [INFO] Found 222 events for Moulin Rouge
+2025-05-23 01:05:12,118 [INFO] Found 242 events for Moulin Rouge
+2025-05-23 01:05:17,390 [INFO] Found 262 events for Moulin Rouge
+2025-05-23 01:05:21,593 [INFO] Found 282 events for Moulin Rouge
+2025-05-23 01:05:26,235 [INFO] Found 302 events for Moulin Rouge
+2025-05-23 01:05:30,798 [INFO] Found 314 events for Moulin Rouge
+2025-05-23 01:05:41,310 [INFO] Processing show 21/29: MJ
+2025-05-23 01:05:55,267 [INFO] Found 22 events for MJ
+2025-05-23 01:05:58,459 [INFO] Found 42 events for MJ
+2025-05-23 01:06:02,260 [INFO] Found 62 events for MJ
+2025-05-23 01:06:06,641 [INFO] Found 82 events for MJ
+2025-05-23 01:06:10,586 [INFO] Found 102 events for MJ
+2025-05-23 01:06:14,409 [INFO] Found 122 events for MJ
+2025-05-23 01:06:18,454 [INFO] Found 142 events for MJ
+2025-05-23 01:06:22,359 [INFO] Found 162 events for MJ
+2025-05-23 01:06:26,941 [INFO] Found 176 events for MJ
+2025-05-23 01:06:37,503 [INFO] Processing show 22/29: Stephen Sondheim’s Old Friends
+2025-05-23 01:06:53,099 [INFO] Found 22 events for Stephen Sondheim’s Old Friends
+2025-05-23 01:06:56,506 [INFO] Found 42 events for Stephen Sondheim’s Old Friends
+2025-05-23 01:06:59,530 [INFO] Found 47 events for Stephen Sondheim’s Old Friends
+2025-05-23 01:07:09,597 [INFO] Processing show 23/29: Operation Mincemeat
+2025-05-23 01:07:19,817 [INFO] Found 22 events for Operation Mincemeat
+2025-05-23 01:07:23,369 [INFO] Found 42 events for Operation Mincemeat
+2025-05-23 01:07:26,497 [INFO] Found 62 events for Operation Mincemeat
+2025-05-23 01:07:30,598 [INFO] Found 82 events for Operation Mincemeat
+2025-05-23 01:07:34,141 [INFO] Found 102 events for Operation Mincemeat
+2025-05-23 01:07:37,825 [INFO] Found 122 events for Operation Mincemeat
+2025-05-23 01:07:42,086 [INFO] Found 142 events for Operation Mincemeat
+2025-05-23 01:07:45,976 [INFO] Found 162 events for Operation Mincemeat
+2025-05-23 01:07:50,322 [INFO] Found 182 events for Operation Mincemeat
+2025-05-23 01:07:54,395 [INFO] Found 202 events for Operation Mincemeat
+2025-05-23 01:07:58,810 [INFO] Found 222 events for Operation Mincemeat
+2025-05-23 01:08:03,375 [INFO] Found 242 events for Operation Mincemeat
+2025-05-23 01:08:08,313 [INFO] Found 262 events for Operation Mincemeat
+2025-05-23 01:08:13,298 [INFO] Found 282 events for Operation Mincemeat
+2025-05-23 01:08:18,369 [INFO] Found 302 events for Operation Mincemeat
+2025-05-23 01:08:23,559 [INFO] Found 311 events for Operation Mincemeat
+2025-05-23 01:08:33,799 [INFO] Processing show 24/29: The Outsiders
+2025-05-23 01:08:45,559 [INFO] Found 22 events for The Outsiders
+2025-05-23 01:08:49,427 [INFO] Found 42 events for The Outsiders
+2025-05-23 01:08:53,141 [INFO] Found 62 events for The Outsiders
+2025-05-23 01:08:57,181 [INFO] Found 82 events for The Outsiders
+2025-05-23 01:09:01,309 [INFO] Found 102 events for The Outsiders
+2025-05-23 01:09:04,718 [INFO] Found 122 events for The Outsiders
+2025-05-23 01:09:08,460 [INFO] Found 142 events for The Outsiders
+2025-05-23 01:09:12,619 [INFO] Found 162 events for The Outsiders
+2025-05-23 01:09:17,520 [INFO] Found 182 events for The Outsiders
+2025-05-23 01:09:22,366 [INFO] Found 202 events for The Outsiders
+2025-05-23 01:09:26,570 [INFO] Found 222 events for The Outsiders
+2025-05-23 01:09:31,040 [INFO] Found 242 events for The Outsiders
+2025-05-23 01:09:35,455 [INFO] Found 262 events for The Outsiders
+2025-05-23 01:09:40,019 [INFO] Found 264 events for The Outsiders
+2025-05-23 01:09:50,212 [INFO] Processing show 25/29: Real Women Have Curves
+2025-05-23 01:10:00,215 [INFO] Found 22 events for Real Women Have Curves
+2025-05-23 01:10:04,123 [INFO] Found 42 events for Real Women Have Curves
+2025-05-23 01:10:07,580 [INFO] Found 62 events for Real Women Have Curves
+2025-05-23 01:10:11,668 [INFO] Found 82 events for Real Women Have Curves
+2025-05-23 01:10:15,780 [INFO] Found 102 events for Real Women Have Curves
+2025-05-23 01:10:19,524 [INFO] Found 122 events for Real Women Have Curves
+2025-05-23 01:10:23,758 [INFO] Found 142 events for Real Women Have Curves
+2025-05-23 01:10:27,844 [INFO] Found 159 events for Real Women Have Curves
+2025-05-23 01:10:38,171 [INFO] Processing show 26/29: Six
+2025-05-23 01:10:48,840 [INFO] Found 22 events for Six
+2025-05-23 01:10:52,297 [INFO] Found 42 events for Six
+2025-05-23 01:10:56,090 [INFO] Found 62 events for Six
+2025-05-23 01:10:59,766 [INFO] Found 82 events for Six
+2025-05-23 01:11:03,426 [INFO] Found 102 events for Six
+2025-05-23 01:11:07,305 [INFO] Found 122 events for Six
+2025-05-23 01:11:11,297 [INFO] Found 142 events for Six
+2025-05-23 01:11:14,847 [INFO] Found 162 events for Six
+2025-05-23 01:11:19,261 [INFO] Found 182 events for Six
+2025-05-23 01:11:23,365 [INFO] Found 202 events for Six
+2025-05-23 01:11:27,961 [INFO] Found 222 events for Six
+2025-05-23 01:11:32,321 [INFO] Found 242 events for Six
+2025-05-23 01:11:36,483 [INFO] Found 262 events for Six
+2025-05-23 01:11:40,869 [INFO] Found 280 events for Six
+2025-05-23 01:11:51,335 [INFO] Processing show 27/29: Smash
+2025-05-23 01:12:01,891 [INFO] Found 22 events for Smash
+2025-05-23 01:12:05,242 [INFO] Found 42 events for Smash
+2025-05-23 01:12:08,738 [INFO] Found 62 events for Smash
+2025-05-23 01:12:12,352 [INFO] Found 82 events for Smash
+2025-05-23 01:12:15,601 [INFO] Found 102 events for Smash
+2025-05-23 01:12:19,353 [INFO] Found 122 events for Smash
+2025-05-23 01:12:23,003 [INFO] Found 142 events for Smash
+2025-05-23 01:12:27,493 [INFO] Found 162 events for Smash
+2025-05-23 01:12:32,025 [INFO] Found 182 events for Smash
+2025-05-23 01:12:36,305 [INFO] Found 202 events for Smash
+2025-05-23 01:12:40,670 [INFO] Found 222 events for Smash
+2025-05-23 01:12:45,077 [INFO] Found 242 events for Smash
+2025-05-23 01:12:49,967 [INFO] Found 262 events for Smash
+2025-05-23 01:12:54,341 [INFO] Found 264 events for Smash
+2025-05-23 01:13:04,515 [INFO] Processing show 28/29: Sunset Boulevard
+2025-05-23 01:13:14,132 [INFO] Found 22 events for Sunset Boulevard
+2025-05-23 01:13:18,003 [INFO] Found 42 events for Sunset Boulevard
+2025-05-23 01:13:21,337 [INFO] Found 61 events for Sunset Boulevard
+2025-05-23 01:13:31,853 [INFO] Processing show 29/29: Wicked
+2025-05-23 01:13:44,571 [INFO] Found 22 events for Wicked
+2025-05-23 01:13:48,145 [INFO] Found 42 events for Wicked
+2025-05-23 01:13:51,519 [INFO] Found 62 events for Wicked
+2025-05-23 01:13:55,056 [INFO] Found 82 events for Wicked
+2025-05-23 01:13:58,328 [INFO] Found 102 events for Wicked
+2025-05-23 01:14:02,041 [INFO] Found 122 events for Wicked
+2025-05-23 01:14:06,227 [INFO] Found 142 events for Wicked
+2025-05-23 01:14:10,842 [INFO] Found 162 events for Wicked
+2025-05-23 01:14:15,031 [INFO] Found 182 events for Wicked
+2025-05-23 01:14:19,328 [INFO] Found 202 events for Wicked
+2025-05-23 01:14:23,858 [INFO] Found 222 events for Wicked
+2025-05-23 01:14:27,905 [INFO] Found 242 events for Wicked
+2025-05-23 01:14:32,554 [INFO] Found 262 events for Wicked
+2025-05-23 01:14:37,701 [INFO] Found 280 events for Wicked
+2025-05-23 01:14:49,211 [INFO] \U0001f53b Browser closed.
+2025-05-23 01:14:49,212 [INFO] Saving data to CSV and JSON files...
+2025-05-23 01:14:50,823 [INFO] Saved 6140 unique entries to CSV and JSON
